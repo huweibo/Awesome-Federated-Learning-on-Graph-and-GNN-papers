@@ -10,6 +10,7 @@ federated learning on graph, especially on graph neural networks (GNNs), and pri
 2. \[Arxiv 2020\] **Federated Dynamic GNN with Secure Aggregation.** [paper](https://arxiv.org/pdf/2009.07351)
 3. \[Arxiv 2020\] **Privacy-Preserving Graph Neural Network for Node Classification.** [paper](https://arxiv.org/pdf/2005.11903)
 4. \[Arxiv 2020\] **ASFGNN: Automated Separated-Federated Graph Neural Network.** [paper](https://arxiv.org/pdf/2011.03248)
+5. \[Arxiv 2020\] GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs. [paper](https://arxiv.org/pdf/2012.04187)
 
 ## Federated Learning: Survey
 1. \[IEEE Signal Processing Magazine 2019\] **Federated Learning：Challenges, Methods, and Future Directions.** [paper](https://arxiv.org/pdf/1908.07873)
