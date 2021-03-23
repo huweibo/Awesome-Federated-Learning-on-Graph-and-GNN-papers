@@ -4,6 +4,7 @@ federated learning on graph, especially on graph neural networks (GNNs), and pri
 ## Federated Learning on Graph
 1. \[Arxiv 2019\] **Peer-to-peer federated learning on graphs.** [paper](https://arxiv.org/pdf/1901.11173)
 2. \[NeurIPS Workshop 2019\] **Towards Federated Graph Learning for Collaborative Financial Crimes Detection.** [paper](https://arxiv.org/pdf/1909.12946)
+3. \[Arxiv 2020\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://arxiv.org/pdf/2010.12882)
 
 ## Federated Learning on Graph Neural Networks
 1. \[Arxiv 2020\] **Federated Dynamic GNN with Secure Aggregation.** [paper](https://arxiv.org/pdf/2009.07351)
