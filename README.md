@@ -12,6 +12,8 @@ federated learning on graph, especially on graph neural networks (GNNs), and pri
 3. \[Arxiv 2020\] **ASFGNN: Automated Separated-Federated Graph Neural Network.** [paper](https://arxiv.org/pdf/2011.03248)
 4. \[Arxiv 2020\] **GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs.** [paper](https://arxiv.org/pdf/2012.04187)
 5. \[Arxiv 2021\] **FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation.** [paper](https://arxiv.org/pdf/2102.04925)
+6. \[Arxiv 2021\] **FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2104.07145) 
+7. \[Arxiv 2021\] **FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search.** [paper](https://arxiv.org/pdf/2104.04141)
 
 ## Private Graph Neural Networks
 1. \[IEEE Big Data 2019\] **A Graph Neural Network Based Federated Learning Approach by Hiding Structure.** [paper](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
