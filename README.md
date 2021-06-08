@@ -17,14 +17,18 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 8. \[Arxiv 2021\] **Cluster-driven Graph Federated Learning over Multiple Domains.** [paper](https://arxiv.org/pdf/2104.14628)
 9. \[Arxiv 2021\] **FedGL: Federated Graph Learning Framework with Global Self-Supervision.** [paper](https://arxiv.org/pdf/2105.03170)
 10. \[Arxiv 2021\] **Federated Graph Learning -- A Position Paper.** [paper](https://arxiv.org/pdf/2105.11099)
+11. \[Arxiv 2021\] **SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks.**(https://arxiv.org/pdf/2106.02743)
 
 ## Federated Learning on Knowledge Graph
 1. \[Arxiv 2020\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://arxiv.org/pdf/2010.12882)
-2. \[Arxiv 2021\] **Federated Knowledge Graphs Embedding.**[paper](https://arxiv.org/pdf/2105.07615)
+2. \[Arxiv 2020\] **Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty.**(https://arxiv.org/pdf/2011.11369)
+3. \[Arxiv 2021\] **Federated Knowledge Graphs Embedding.**[paper](https://arxiv.org/pdf/2105.07615)
 
 ## Private Graph Neural Networks
 1. \[IEEE Big Data 2019\] **A Graph Neural Network Based Federated Learning Approach by Hiding Structure.** [paper](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
 2. \[Arxiv 2020\] **Locally Private Graph Neural Networks.** [paper](https://arxiv.org/pdf/2006.05535)
+3. \[Arxiv 2021\] **Privacy-Preserving Graph Convolutional Networks for Text Classification.**(https://arxiv.org/pdf/2102.09604)
+4. \[Arxiv 2021\] **GraphMI: Extracting Private Graph Data from Graph Neural Networks.**(https://arxiv.org/pdf/2106.02820)
 
 ## Federated Learning: Survey
 1. \[IEEE Signal Processing Magazine 2019\] **Federated Learning：Challenges, Methods, and Future Directions.** [paper](https://arxiv.org/pdf/1908.07873)
@@ -32,7 +36,6 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 3. \[IEEE Communications Surveys & Tutorials 2020\] **Federated Learning in Mobile Edge Networks A Comprehensive Survey.** [paper](https://arxiv.org/pdf/1909.11875)
 
 ## Graph Neural Networks: Survey
-1. \[IEEE TNNLS 2020\] **A Comprehensive Survey on Graph Neural Networks.** [paper](https://arxiv.org/pdf/1901.00596)
-2. \[Arxiv 2018\] **Graph Neural Networks-A Review of Methods and Applications.** [paper](https://arxiv.org/abs/1812.08434)
+1. \[Arxiv 2018\] **Graph Neural Networks-A Review of Methods and Applications.** [paper](https://arxiv.org/abs/1812.08434)
 2. \[IEEE TKDE 2020\] **Deep Learning on Graphs-A Survey.** [paper](https://arxiv.org/pdf/1812.04202.pdf%E3%80%82)
-3. \[Arxiv 2017\] **Representation learning on graphs - Methods and applications.** [paper](https://arxiv.org/pdf/1709.05584)
+3. \[IEEE TNNLS 2020\] **A Comprehensive Survey on Graph Neural Networks.** [paper](https://arxiv.org/pdf/1901.00596)
