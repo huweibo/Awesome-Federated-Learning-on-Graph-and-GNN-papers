@@ -36,6 +36,6 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 3. \[IEEE Communications Surveys & Tutorials 2020\] **Federated Learning in Mobile Edge Networks A Comprehensive Survey.** [paper](https://arxiv.org/pdf/1909.11875)
 
 ## Graph Neural Networks: Survey
-1. \[Arxiv 2018\] **Graph Neural Networks-A Review of Methods and Applications.** [paper](https://arxiv.org/abs/1812.08434)
-2. \[IEEE TKDE 2020\] **Deep Learning on Graphs-A Survey.** [paper](https://arxiv.org/pdf/1812.04202.pdf%E3%80%82)
-3. \[IEEE TNNLS 2020\] **A Comprehensive Survey on Graph Neural Networks.** [paper](https://arxiv.org/pdf/1901.00596)
+1. \[IEEE TNNLS 2020\] **A Comprehensive Survey on Graph Neural Networks.** [paper](https://arxiv.org/pdf/1901.00596)
+2. \[IEEE TKDE 2020\] **Deep Learning on Graphs: A Survey.** [paper](https://arxiv.org/pdf/1812.04202.pdf%E3%80%82)
+3. \[AI Open\] **Graph Neural Networks: A Review of Methods and Applications.** [paper](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
