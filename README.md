@@ -5,6 +5,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 1. \[Arxiv 2019\] **Peer-to-peer federated learning on graphs.** [paper](https://arxiv.org/pdf/1901.11173)
 2. \[NeurIPS Workshop 2019\] **Towards Federated Graph Learning for Collaborative Financial Crimes Detection.** [paper](https://arxiv.org/pdf/1909.12946)
 3. \[Arxiv 2021\] **A Graph Federated Architecture with Privacy Preserving Learning.** [paper](https://arxiv.org/pdf/2104.13215)
+4. \[Arxiv 2021\] **Federated Myopic Community Detection with One-shot Communication.** [paper](https://arxiv.org/pdf/2106.07255)
 
 ## Federated Learning on Graph Neural Networks
 1. \[Arxiv 2020\] **Federated Dynamic GNN with Secure Aggregation.** [paper](https://arxiv.org/pdf/2009.07351)
@@ -18,11 +19,16 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 9. \[Arxiv 2021\] **FedGL: Federated Graph Learning Framework with Global Self-Supervision.** [paper](https://arxiv.org/pdf/2105.03170)
 10. \[Arxiv 2021\] **Federated Graph Learning -- A Position Paper.** [paper](https://arxiv.org/pdf/2105.11099)
 11. \[Arxiv 2021\] **SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2106.02743)
+12. \[Arxiv 2021\] **Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling.** [paper](https://arxiv.org/pdf/2106.05223)
+13. \[Arxiv 2021\] **A Vertical Federated Learning Framework for Graph Convolutional Network.** [paper](https://arxiv.org/pdf/2106.11593)
+14. \[Arxiv 2021\] **Federated Graph Classification over Non-IID Graphs.** [paper](https://arxiv.org/pdf/2106.13423)
+15. \[Arxiv 2021\] **Subgraph Federated Learning with Missing Neighbor Generation.** [paper](https://arxiv.org/pdf/2106.13430)
 
 ## Federated Learning on Knowledge Graph
 1. \[Arxiv 2020\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://arxiv.org/pdf/2010.12882)
 2. \[Arxiv 2020\] **Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty.** [paper](https://arxiv.org/pdf/2011.11369)
 3. \[Arxiv 2021\] **Federated Knowledge Graphs Embedding.**[paper](https://arxiv.org/pdf/2105.07615)
+4. \[Arxiv 2021\] **Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in Digital Libraries.** [paper](https://arxiv.org/pdf/2107.05447)
 
 ## Private Graph Neural Networks
 1. \[IEEE Big Data 2019\] **A Graph Neural Network Based Federated Learning Approach by Hiding Structure.** [paper](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
