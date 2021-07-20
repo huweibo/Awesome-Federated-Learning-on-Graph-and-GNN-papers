@@ -35,6 +35,8 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 2. \[Arxiv 2020\] **Locally Private Graph Neural Networks.** [paper](https://arxiv.org/pdf/2006.05535)
 3. \[Arxiv 2021\] **Privacy-Preserving Graph Convolutional Networks for Text Classification.** [paper](https://arxiv.org/pdf/2102.09604)
 4. \[Arxiv 2021\] **GraphMI: Extracting Private Graph Data from Graph Neural Networks.** [paper](https://arxiv.org/pdf/2106.02820)
+5. \[Arxiv 2021\] **Towards Representation Identical Privacy-Preserving Graph Neural Network via Split Learning.** [paper](https://arxiv.org/abs/2107.05917)
+
 
 ## Federated Learning: Survey
 1. \[IEEE Signal Processing Magazine 2019\] **Federated Learning：Challenges, Methods, and Future Directions.** [paper](https://arxiv.org/pdf/1908.07873)
