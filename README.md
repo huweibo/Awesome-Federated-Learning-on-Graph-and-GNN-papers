@@ -24,6 +24,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 14. \[Arxiv 2021\] **Federated Graph Classification over Non-IID Graphs.** [paper](https://arxiv.org/pdf/2106.13423)
 15. \[Arxiv 2021\] **Subgraph Federated Learning with Missing Neighbor Generation.** [paper](https://arxiv.org/pdf/2106.13430)
 16. \[Arxiv 2021\] **Differentially Private Federated Knowledge Graphs Embedding.** [paper](https://arxiv.org/pdf/2105.07615)
+17. \[Springer 2021\] **A Federated Multigraph Integration Approach for Connectional Brain Template Learning.** [paper](https://link.springer.com/chapter/10.1007/978-3-030-89847-2_4)
 
 
 ## Federated Learning on Knowledge Graph
