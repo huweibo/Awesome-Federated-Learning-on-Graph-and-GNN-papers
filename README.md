@@ -24,6 +24,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 14. \[Arxiv 2021\] **Federated Graph Classification over Non-IID Graphs.** [paper](https://arxiv.org/pdf/2106.13423)
 15. \[Arxiv 2021\] **Subgraph Federated Learning with Missing Neighbor Generation.** [paper](https://arxiv.org/pdf/2106.13430)
 16. \[Arxiv 2021\] **Differentially Private Federated Knowledge Graphs Embedding.** [paper](https://arxiv.org/pdf/2105.07615)
+17. \[MICCAI Workshop 2021\] **A Federated Multigraph Integration Approach for Connectional Brain Template Learning.** [paper](https://link.springer.com/chapter/10.1007/978-3-030-89847-2_4)
 
 
 ## Federated Learning on Knowledge Graph
@@ -49,3 +50,5 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 1. \[IEEE TNNLS 2020\] **A Comprehensive Survey on Graph Neural Networks.** [paper](https://arxiv.org/pdf/1901.00596)
 2. \[IEEE TKDE 2020\] **Deep Learning on Graphs: A Survey.** [paper](https://arxiv.org/pdf/1812.04202.pdf%E3%80%82)
 3. \[AI Open\] **Graph Neural Networks: A Review of Methods and Applications.** [paper](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
+4. \[ArXiv 2021\] **Graph Neural Networks in Network Neuroscience.** [paper](https://arxiv.org/pdf/2106.03535.pdf) -- [GitHub repo of all reviewed papers](https://github.com/basiralab/GNNs-in-Network-Neuroscience)
+
