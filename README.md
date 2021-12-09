@@ -25,7 +25,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 7. \[Arxiv 2021\] **FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search.** [paper](https://arxiv.org/pdf/2104.04141)
 8. \[CVPR 2021\] **Cluster-driven Graph Federated Learning over Multiple Domains.** [paper](https://arxiv.org/pdf/2104.14628)
 9. \[Arxiv 2021\] **FedGL: Federated Graph Learning Framework with Global Self-Supervision.** [paper](https://arxiv.org/pdf/2105.03170)
-10. \[AAAI 2022\] **SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2106.02743)
+10. \[AAAI 2022\] **SpreadGNN: Decentralized Multi-Task Federated Learning forGraph Neural Networks on Molecular Data.** [paper](https://arxiv.org/pdf/2106.02743) [code](https://github.com/FedML-AI/SpreadGNN)
 12. \[KDD 2021\] **Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling.** [paper](https://arxiv.org/pdf/2106.05223) [code](https://github.com/mengcz13/KDD2021_CNFGNN)
 13. \[Arxiv 2021\] **A Vertical Federated Learning Framework for Graph Convolutional Network.** [paper](https://arxiv.org/pdf/2106.11593)
 14. \[NeurIPS 2021\] **Federated Graph Classification over Non-IID Graphs.** [paper](https://arxiv.org/pdf/2106.13423)
