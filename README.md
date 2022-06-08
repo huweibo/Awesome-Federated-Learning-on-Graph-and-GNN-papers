@@ -4,14 +4,16 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 ## Federated Learning on Graphs
 1. \[Arxiv 2019\] **Peer-to-peer federated learning on graphs.** [paper](https://arxiv.org/pdf/1901.11173)
 2. \[NeurIPS Workshop 2019\] **Towards Federated Graph Learning for Collaborative Financial Crimes Detection.** [paper](https://arxiv.org/pdf/1909.12946)
-3. \[Arxiv 2021\] **A Graph Federated Architecture with Privacy Preserving Learning.** [paper](https://arxiv.org/pdf/2104.13215)
+3. \[SPAWC 2021\] **A Graph Federated Architecture with Privacy Preserving Learning.** [paper](https://arxiv.org/pdf/2104.13215)
 4. \[Arxiv 2021\] **Federated Myopic Community Detection with One-shot Communication.** [paper](https://arxiv.org/pdf/2106.07255)
+4. [ICCAD 2021] **FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule Drug Discovery: Special Session Paper** [[paper](https://doi.org/10.1109/ICCAD51958.2021.9643440)
 
 ## Federated Learning on Graph Neural Networks
 
 ### Survey Papers
 1. \[Arxiv 2021\] **FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2104.07145) 
 2. \[Arxiv 2021\] **Federated Graph Learning -- A Position Paper.** [paper](https://arxiv.org/pdf/2105.11099)
+2. \[Arxiv 2022\] **Federated Graph Neural Networks: Overview, Techniques and Challenges** [paper](https://arxiv.org/pdf/2202.07256)
 
 
 ### Algorithm Papers
@@ -32,7 +34,10 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 15. \[NeurIPS 2021\] **Subgraph Federated Learning with Missing Neighbor Generation.** [paper](https://arxiv.org/pdf/2106.13430)
 16. \[CIKM 2021\] **Differentially Private Federated Knowledge Graphs Embedding.** [paper](https://arxiv.org/pdf/2105.07615) [code](https://github.com/HKUST-KnowComp/FKGE)
 17. \[MICCAI Workshop 2021\] **A Federated Multigraph Integration Approach for Connectional Brain Template Learning.** [paper](https://link.springer.com/chapter/10.1007/978-3-030-89847-2_4)
-18. \[TPDS 2021] **FedGraph: Federated Graph Learning with Intelligent Sampling.** [paper](https://ieeexplore.ieee.org/abstract/document/9606516/)
+18. \[TPDS 2021] **FedGraph: Federated Graph Learning with Intelligent Sampling.** [paper](https://ieeexplore.ieee.org/abstract/document/9606516/) 
+18. [ACM TIST 2021] **Federated Social Recommendation with Graph Neural Network** [paper](https://arxiv.org/pdf/2111.10778)
+18. [CISS 2022] **Decentralized Graph Federated Multitask Learning for Streaming Data** [paper](https://doi.org/10.1109/CISS53076.2022.9751160)
+18. [JBHI 2022] **Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking in Healthcare Applications** [paper](https://ieeexplore.ieee.org/document/9648036)
 
 ## Federated Learning on Knowledge Graph
 1. \[IJCKG 2021\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://dl.acm.org/doi/abs/10.1145/3502223.3502233) [code](https://github.com/AnselCmy/FedE)
