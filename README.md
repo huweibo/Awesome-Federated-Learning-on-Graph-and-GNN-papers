@@ -35,9 +35,10 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 16. \[CIKM 2021\] **Differentially Private Federated Knowledge Graphs Embedding.** [paper](https://arxiv.org/pdf/2105.07615) [code](https://github.com/HKUST-KnowComp/FKGE)
 17. \[MICCAI Workshop 2021\] **A Federated Multigraph Integration Approach for Connectional Brain Template Learning.** [paper](https://link.springer.com/chapter/10.1007/978-3-030-89847-2_4)
 18. \[TPDS 2021] **FedGraph: Federated Graph Learning with Intelligent Sampling.** [paper](https://ieeexplore.ieee.org/abstract/document/9606516/) 
-18. [ACM TIST 2021] **Federated Social Recommendation with Graph Neural Network** [paper](https://arxiv.org/pdf/2111.10778)
-18. [CISS 2022] **Decentralized Graph Federated Multitask Learning for Streaming Data** [paper](https://doi.org/10.1109/CISS53076.2022.9751160)
-18. [JBHI 2022] **Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking in Healthcare Applications** [paper](https://ieeexplore.ieee.org/document/9648036)
+19. [ACM TIST 2021] **Federated Social Recommendation with Graph Neural Network** [paper](https://arxiv.org/pdf/2111.10778)
+20. [CISS 2022] **Decentralized Graph Federated Multitask Learning for Streaming Data** [paper](https://doi.org/10.1109/CISS53076.2022.9751160)
+21. [JBHI 2022] **Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking in Healthcare Applications** [paper](https://ieeexplore.ieee.org/document/9648036)
+22. [CIKM Workshop 2022] **FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks** [paper](https://arxiv.org/abs/2201.12433) [code](https://github.com/yh-yao/FedGCN)
 
 ## Federated Learning on Knowledge Graph
 1. \[IJCKG 2021\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://dl.acm.org/doi/abs/10.1145/3502223.3502233) [code](https://github.com/AnselCmy/FedE)
