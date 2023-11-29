@@ -6,7 +6,8 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 2. \[NeurIPS Workshop 2019\] **Towards Federated Graph Learning for Collaborative Financial Crimes Detection.** [paper](https://arxiv.org/pdf/1909.12946)
 3. \[SPAWC 2021\] **A Graph Federated Architecture with Privacy Preserving Learning.** [paper](https://arxiv.org/pdf/2104.13215)
 4. \[Arxiv 2021\] **Federated Myopic Community Detection with One-shot Communication.** [paper](https://arxiv.org/pdf/2106.07255)
-4. [ICCAD 2021] **FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule Drug Discovery: Special Session Paper** [[paper](https://doi.org/10.1109/ICCAD51958.2021.9643440)
+5. \[ICCAD 2021\] **FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule Drug Discovery: Special Session Paper.** [paper](https://doi.org/10.1109/ICCAD51958.2021.9643440)
+6. \[ICML 2023\] **Personalized Subgraph Federated Learning.** [paper](https://arxiv.org/abs/2206.10206)
 
 ## Federated Learning on Graph Neural Networks
 
