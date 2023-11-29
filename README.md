@@ -48,7 +48,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 5. \[ACL Workshop 2022\] **Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation.** [paper](https://arxiv.org/abs/2203.09553) [code](https://github.com/taokz/FedR)
 6. \[IJCAI 2022\] **Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting.** [paper](https://arxiv.org/abs/2205.04692) [code](https://github.com/zjukg/MaKEr)
 
-## Federated Learning on IoT Devices
+## Federated Graph Learning on IoT Devices
 1. [IoTDI 2023] **FedRule: Federated Rule Recommendation System with Graph Neural Networks** [paper](https://arxiv.org/abs/2211.06812) [code](https://github.com/yh-yao/FedRule)
 1. [NeurIPS 2023 Dataset Track] **FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks** [paper](https://openreview.net/forum?id=qynH28Y4xE) [dataset](https://huggingface.co/datasets/wyzelabs/RuleRecommendation)
 
