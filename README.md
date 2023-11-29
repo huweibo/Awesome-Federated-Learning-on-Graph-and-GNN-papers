@@ -51,7 +51,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 
 ## Federated Graph Learning on IoT Devices
 1. [IoTDI 2023] **FedRule: Federated Rule Recommendation System with Graph Neural Networks** [paper](https://arxiv.org/abs/2211.06812) [code](https://github.com/yh-yao/FedRule)
-1. [NeurIPS 2023 Dataset Track] **FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks** [paper](https://openreview.net/forum?id=qynH28Y4xE) [dataset](https://huggingface.co/datasets/wyzelabs/RuleRecommendation)
+1. [NeurIPS 2023 Dataset Track] **Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking** [paper](https://openreview.net/forum?id=qynH28Y4xE) [dataset](https://huggingface.co/datasets/wyzelabs/RuleRecommendation)
 
 ## Private Graph Neural Networks
 1. \[IEEE Big Data 2019\] **A Graph Neural Network Based Federated Learning Approach by Hiding Structure.** [paper](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
