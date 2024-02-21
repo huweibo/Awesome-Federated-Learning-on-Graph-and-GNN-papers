@@ -39,7 +39,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 19. [ACM TIST 2021] **Federated Social Recommendation with Graph Neural Network** [paper](https://arxiv.org/pdf/2111.10778)
 20. [CISS 2022] **Decentralized Graph Federated Multitask Learning for Streaming Data** [paper](https://doi.org/10.1109/CISS53076.2022.9751160)
 21. [JBHI 2022] **Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking in Healthcare Applications** [paper](https://ieeexplore.ieee.org/document/9648036)
-22. [CIKM Workshop 2022] **FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks** [paper](https://arxiv.org/abs/2201.12433) [code](https://github.com/yh-yao/FedGCN)
+22. [NeurIPS 2023] **FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks** [paper](https://arxiv.org/abs/2201.12433) [code](https://github.com/yh-yao/FedGCN)
 
 ## Federated Learning on Knowledge Graph
 1. \[IJCKG 2021\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://dl.acm.org/doi/abs/10.1145/3502223.3502233) [code](https://github.com/AnselCmy/FedE)
@@ -48,6 +48,10 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 4. \[Arxiv 2021\] **Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in Digital Libraries.** [paper](https://arxiv.org/pdf/2107.05447)
 5. \[ACL Workshop 2022\] **Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation.** [paper](https://arxiv.org/abs/2203.09553) [code](https://github.com/taokz/FedR)
 6. \[IJCAI 2022\] **Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting.** [paper](https://arxiv.org/abs/2205.04692) [code](https://github.com/zjukg/MaKEr)
+
+## Federated Graph Learning on IoT Devices
+1. [IoTDI 2023] **FedRule: Federated Rule Recommendation System with Graph Neural Networks** [paper](https://arxiv.org/abs/2211.06812) [code](https://github.com/yh-yao/FedRule)
+1. [NeurIPS 2023 Dataset Track] **Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking** [paper](https://openreview.net/forum?id=qynH28Y4xE) [dataset](https://huggingface.co/datasets/wyzelabs/RuleRecommendation)
 
 ## Private Graph Neural Networks
 1. \[IEEE Big Data 2019\] **A Graph Neural Network Based Federated Learning Approach by Hiding Structure.** [paper](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
